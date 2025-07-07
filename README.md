@@ -1,10 +1,8 @@
 # Привет, я Алина! 👋
 
-### Дата-аналитик с глубокой экспертизой в FinTech
+### Дата-аналитик с экспертизой в FinTech
 
-Я помогаю финансовым компаниям оптимизировать процессы, повышать эффективность и принимать решения на основе данных. 
-
-Мой путь в аналитике начался с решения макроэкономических задач и привел к глубокому погружению в продуктовую и операционную аналитику.
+Я помогаю финансовым компаниям оптимизировать процессы, повышать эффективность и принимать решения на основе данных. Мой путь в аналитике начался с решения макроэкономических задач и привел к глубокому погружению в продуктовую и операционную аналитику.
 
 ### Ключевые компетенции:
 
@@ -15,3 +13,7 @@
 
 ### Мой стек технологий:
 
+<h3>🚀 Мой стек технологий:</h3>
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" height="30" style="margin: 4px;"/></a><a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" title="Jupyter Notebook" height="30" style="margin: 4px;"/></a><a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" title="Pandas" height="30" style="margin: 4px;"/></a><a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" title="NumPy" height="30" style="margin: 4px;"/></a><a href="https://www.statsmodels.org/stable/index.html" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/67586773/105229384-3434f080-5b69-11eb-9466-3b341c2d6568.png" alt="Statsmodels" title="Statsmodels / Statistics" height="30" style="margin: 4px;"/></a><a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" alt="PostgreSQL" title="PostgreSQL" height="30" style="margin: 4px;"/></a><a href="https://ru.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="SQL" title="SQL" height="30" style="margin: 4px;"/></a><a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" title="Matplotlib" height="30" style="margin: 4px;"/></a><a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" title="Seaborn" height="30" style="margin: 4px;"/></a><a href="https://www.microsoft.com/ru-ru/microsoft-365/excel" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/microsoftexcel/1D6F42" alt="Excel" title="Microsoft Excel & Power Query" height="30" style="margin: 4px;"/></a><a href="https://loginom.ru/" target="_blank" rel="noreferrer"><img src="https://loginom.ru/assets/img/logo_loginom_community.svg" alt="Loginom" title="Loginom" height="30" style="margin: 4px;"/></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git" height="30" style="margin: 4px;"/></a><a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" title="Visual Studio" height="30" style="margin: 4px;"/></a>
+</p>
