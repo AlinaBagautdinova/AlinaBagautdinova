@@ -27,7 +27,7 @@
   <a href="https://dbeaver.io/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" alt="DBeaver" title="DBeaver" height="30" style="margin: 4px;"/></a>
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" title="Power BI" height="30" style="margin: 4px;"/></a>
   <a href="https://www.microsoft.com/ru-ru/microsoft-365/excel" target="_blank" rel="noreferrer"><img src="excel-logo.svg" alt="Excel" title="Microsoft Excel & Power Query" height="30" style="margin: 4px;"/></a>
-  <a href="https://loginom.ru/" target="_blank" rel="noreferrer"><img src="loginom-logo.svg" alt="Loginom" title="Loginom" height="28" style="margin: 4px;"/></a>
+   <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://logo.svgcdn.com/l/visual-studio-code.png" alt="Visual Studio" title="Visual Studio Code" height="30" style="margin: 4px;"/></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git" height="30" style="margin: 4px;"/></a>
-  <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://logo.svgcdn.com/l/visual-studio-code.png" alt="Visual Studio" title="Visual Studio Code" height="30" style="margin: 4px;"/></a>
+  <a href="https://loginom.ru/" target="_blank" rel="noreferrer"><img src="loginom-logo.svg" alt="Loginom" title="Loginom" height="28" style="margin: 4px;"/></a>
 </p>
